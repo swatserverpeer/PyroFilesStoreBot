@@ -80,6 +80,9 @@ async def start(bot, cmd):
 								InlineKeyboardButton("🤖 𝐉𝐨𝐢𝐧 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 𝐂𝐡𝐚𝐧𝐧𝐞𝐥", url=invite_link.invite_link)
 							],
 							[
+								InlineKeyboardButton("🔔𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 𝐘𝐎𝐔𝐓𝐔𝐁𝐄🔔", url="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ")
+							],
+							[
 								InlineKeyboardButton("🔄 𝗥𝗲𝗳𝗿𝗲𝘀𝗵 🔄", callback_data="refreshmeh")
 							]
 						]
@@ -134,6 +137,9 @@ async def start(bot, cmd):
 						[
 							[
 								InlineKeyboardButton("🤖 𝐉𝐨𝐢𝐧 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 𝐂𝐡𝐚𝐧𝐧𝐞𝐥", url=invite_link.invite_link)
+							],
+                                                        [
+							        InlineKeyboardButton("🔔𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 𝐘𝐎𝐔𝐓𝐔𝐁𝐄🔔", url="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ")
 							],
 							[
 								InlineKeyboardButton("🔄 𝗥𝗲𝗳𝗿𝗲𝘀𝗵 / 𝗧𝗿𝘆 𝗔𝗴𝗮𝗶𝗻", url=f"https://telegram.dog/{BOT_USERNAME}?start=AbirHasan2005_{file_id}")
@@ -351,6 +357,9 @@ async def button(bot, cmd: CallbackQuery):
 						[
 							[
 								InlineKeyboardButton("🤖 𝐉𝐨𝐢𝐧 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 𝐂𝐡𝐚𝐧𝐧𝐞𝐥", url=invite_link.invite_link)
+							],
+							[
+                                                                InlineKeyboardButton("🔔𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 𝐘𝐎𝐔𝐓𝐔𝐁𝐄🔔", url="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ")
 							],
 							[
 								InlineKeyboardButton("🔄 𝗥𝗲𝗳𝗿𝗲𝘀𝗵 🔄", callback_data="refreshmeh")
