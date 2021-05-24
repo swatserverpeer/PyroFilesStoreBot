@@ -14,7 +14,6 @@ class Config(object):
 	LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL"))
 	ABOUT_BOT_TEXT = f"""
 This is Permanent Files Store Bot!
-Send me any file I will save it in my Database. Also works for channel. Add me to channel as Admin with Edit Permission, I will add Save Uploaded File in Channel & add Sharable Button Link.
 
 🤖 **My Name:** [Files Store Bot](https://t.me/{BOT_USERNAME})
 
@@ -40,5 +39,5 @@ Donate Now (coming soon)
 	HOME_TEXT = """
 Hi, [{}](tg://user?id={})\n\nThis is Permanent **File Store Bot**.
 
-Send me any file I will give you a permanent Sharable Link. I Support Channel Also! Check **About Bot** Button.
+This is private **File Sharing Bot**. I will share the files personally to the user. Check **About Bot** Button.
 """
