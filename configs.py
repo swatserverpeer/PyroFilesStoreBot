@@ -18,24 +18,22 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 🤖 **My Name:** [Files Store Bot](https://t.me/{BOT_USERNAME})
 
-📝 **Language:** [Python3](https://www.python.org)
+🧑🏻‍💻 **Developer:** @Bujukku_Bujukku
 
-📚 **Library:** [Pyrogram](https://docs.pyrogram.org)
+📺 **Support :** [Discussion Group](https://throwme.ml/discussion)
 
-📡 **Hosted on:** [Heroku](https://heroku.com)
+📢 **Updates Channel:** [Bujukku_Bujukku](https://throwme.ml/bujukku_bujukku)
 
-🧑🏻‍💻 **Developer:** @MRK_YT
-
-📺 **Support :** [YouTube Channel](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)
-
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Mo_Tech_YT)
+📢 **Backup Channel:** [Backup_Backup](https://throwme.ml/bujukku_backup)
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **Developer:** @MRK_YT
+🧑🏻‍💻 **Developer:** @Bujukku__Bujukku
 
-📺 **Support :** [YouTube Channel](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)
+📺 **Support :** [Discussion Group](https://throwme.ml/discussion)
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Mo_Tech_YT)
+📢 **Updates Channel:** [Bujukku_Bujukku](https://throwme.ml/bujukku_bujukku)
+
+📢 **Backup Channel:** [Bujukku_Backup](https://throwme.ml/bujukku_backup)
 
 Donate Now (coming soon)
 """
