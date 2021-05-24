@@ -109,8 +109,7 @@ async def start(bot, cmd):
 				[
 					[
 						InlineKeyboardButton("Main Channel", url="https://throwme.ml/bujukku_bujukku"),
-						InlineKeyboardButton("Backup Channel", url="https://throwme.ml/bujukku_backup"),
-						InlineKeyboardButton("Discussion", url="https://throwme.ml/discussion")
+						InlineKeyboardButton("Backup Channel", url="https://throwme.ml/bujukku_backup")
 					],
 					[
 						InlineKeyboardButton("About Bot", callback_data="aboutbot"),
